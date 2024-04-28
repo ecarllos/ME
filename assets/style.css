@@ -1,0 +1,15 @@
+* {
+    border: 0;
+    margin: 0;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(109deg, #22e245, #6fcd80);
+}
+
+div #midias_sociais img {
+    height: 5px;
+    width: 5px;
+}
