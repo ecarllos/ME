@@ -13,3 +13,18 @@ div img {
     height: 25px;
     width: 25px;
 }
+
+.socials {
+    width: 400px;
+    height: 200px;
+    display: grid;
+    background-color: red;
+    /* justify-items: center;
+    justify-content: center;
+    align-items: center; */
+}
+
+.socials div{
+    display: grid;
+    justify-items: center;
+}
