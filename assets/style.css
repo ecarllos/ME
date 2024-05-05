@@ -19,12 +19,18 @@ div img {
     height: 200px;
     display: grid;
     background-color: red;
-    /* justify-items: center;
+    /* justify-items: center; */
     justify-content: center;
-    align-items: center; */
+    align-items: center;
 }
 
 .socials div{
     display: grid;
     justify-items: center;
+
+}
+
+.socials div a{
+    text-decoration: none;
+    
 }
